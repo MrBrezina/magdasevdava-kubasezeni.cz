@@ -1,0 +1,1 @@
+# magdasevdava-kubasezeni.cz
