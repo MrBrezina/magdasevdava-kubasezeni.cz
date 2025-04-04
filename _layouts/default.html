@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="/assets/styles.css">
+
+    <!-- OG and Twitter -->
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+
+    <!-- visitor analytics -->
+    <script async defer data-domain="magdasevdava-kubasezeni.cz" src="https://plausible.io/js/plausible.js"></script>
+</head>
+
+<body>
+  <section>
+    {{ content }}
+  </section>
+</body>
+</html>

@@ -1,0 +1,16 @@
+# Permalinks
+
+# Setup
+title: Magda se vdává, Kuba se žení
+description: Wedding website of Magda Markvartová and Jakub Březina
+url: https://magdasevdava-kubasezeni.cz
+baseurl: ""
+
+# About/contact
+author:
+  name: David Březina
+  url: https://magdasevdava-kubasezeni.cz
+  email: hello@mrbrezina.com
+
+# Build settings
+markdown: kramdown
