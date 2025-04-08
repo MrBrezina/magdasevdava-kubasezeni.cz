@@ -6,30 +6,58 @@ home: True
 
 ## Magda Markvartová & Jakub Březina
 
-Se budou brát 7. června 2025 v Brně
+Srdečně vás zveme na naši, dlouho očekávanou, svatbu. Obřad i následná párty se odehrají na [naší zahradě](https://maps.app.goo.gl/F6Jpthkqu5bBVzp8A) 7. června 2025 v Brně.
 
 ## Jak to bude probíhat
 
 - 11:00 — obřad
 - 11:33 a dál — zahradní párty
-  
-- na obřadu vás rádi uvidíme, ale můžete se objevit i později a trousit se v průběhu dne
-- akce bude probíhat na několika stagích
-- jídlo bude (i pro vegetariány), od koho
-- máme bazén, do kterého je možné vložit dětičky (plavky s sebou) (co dospělí)
-- hudba bude?
-- tradice budou/nebudou, únos a podobné šaškárny prosím ano/ne, (ne)jsme na to staří
+
+Pokud chcete přijít už na obřad, dejte si raději trošku rezervu a přijďte už na 10:30. Pokud vám to nevychází, můžete se objevit i později v průběhu dne.
+
+Po obřadu budeme přijímat gratulace pouze od členů rodiny. Za všemi ostatními se zastavíme v průběhu celého dne. Vyhneme se tak čekání na sluníčku (jestli bude hezky).
+
+Vzhledem k tomu, že svatba bude probíhat venku na naší zahradě, obleky, kravaty, společenské šaty a hlavně podpatky klidně nechte doma. Můžete si s sebou ale vzít plavky a ručník, určitě se budeme koupat.
+
+**Do 16. května 2025 nám, prosím, dejte vědět, zda a v jakém počtu dorazíte. Kliknutím na tlačítko se dostanete na formulář. Vyplňte prosím vždy jeden za pár/rodinu.**
+
+[Potvrdit účast](https://forms.gle/qPibzoxNnq4Zj4Sd6)
 
 ## Kde to bude a jak se tam dostanete
 
 [Piňosova 961/12, 623 00 Brno-Kohoutovice](https://maps.app.goo.gl/F6Jpthkqu5bBVzp8A)
 
-- MHD
-- letecká a železniční doprava do Brna
-- dálnice do Brna
-- parkování
+Vzhledem k omezené možnosti parkování, prosíme, abyste využili MHD anebo taxi. Pokud přece jen pojedete autem, parkovat lze v přilehlých ulicích (Chalabalova, Prokofjevova, Glinkova) a na parkovišti u Aquaparku Kohoutovice.
 
-## Dary nechceme, ale pokud i tak máte silnou potřebu nám něco dát
+### MHD
 
-- QR kód?
-- přispějte na zvířátka v zoo
+Trolejbus č. 37, zastávka Glinkova
+Autobus č. 52, zastávka Myslivní (a pak po schodech nahoru)
+
+V odpoledních a večerních hodinách bude jezdit řidič, který vás dopraví domů (v rámci Brna a přilehlého okolí).
+
+## Co na svatbě bude
+
+- jídlo a pití formou samoobslužného bufetu po celý den (a noc)
+- DJ Dan Keschen
+- chill-out zóna
+- dětský koutek s hlídáním pro menší děti, pro starší děti
+- PlayStation koutek
+
+## Co na svatbě nebude
+
+Svatební tradice jako rozbíjení talíře, únos nevěsty, proslovy
+
+## Dary
+
+Největší radost nám uděláte, když přijdete. Dary nechceme, ale pokud máte silnou potřebu nám i tak něco dát, oceníme peněžitý dar, který využijeme na klidnou rodinnou dovolenou.
+
+[QR kód]
+
+## Dotazy a kontakt
+
+Chcete se na něco zeptat? Napište Magdě (776 784 728) nebo Kubovi (723 773 240), ale spíš Magdě. 
+
+—
+
+Moc se na vás těšíme!
