@@ -8,7 +8,7 @@ Srdečně vás zveme na naši, dlouho očekávanou, svatbu!
 
 ## Jak to bude probíhat
 
-Obřad začíne přesně 7. června 2025 v 11:00, tak si dejte raději rezervu a přijďte už na 10:30. Pokud vám to na obřad nevyjde, můžete se objevit i později v průběhu dne.
+Obřad začne přesně 7. června 2025 v 11:00, tak si dejte raději rezervu a přijďte už na 10:30. Pokud vám to na obřad nevyjde, můžete se objevit i později v průběhu dne.
 
 Po obřadu budeme přijímat gratulace pouze od členů rodiny. Za všemi ostatními se zastavíme v průběhu celého dne. Vyhneme se tak čekání na sluníčku (jestli bude hezky).
 
