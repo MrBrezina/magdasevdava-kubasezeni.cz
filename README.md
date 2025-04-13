@@ -52,3 +52,8 @@ Největší radost nám uděláte, když přijdete. Dary nechceme, ale pokud má
 ## Dotazy a kontakt
 
 Chcete se na něco zeptat? Napište Magdě (776 784 728) nebo Kubovi (723 773 240), ale asi spíš Magdě.
+
+—
+
+Už se ná vás všichni moc těšíme!
+
