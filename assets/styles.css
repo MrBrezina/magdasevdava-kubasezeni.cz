@@ -53,7 +53,7 @@ img#background {
 }
 
 section {
-  padding: 5em 2em 12em 2em;
+  padding: 3em 2em 12em 2em;
   margin: 0;
   background: var(--background);
 }
@@ -140,7 +140,7 @@ a.button:hover {
 @media (max-width: 1150px) {
   section {
     width: auto;
-    padding: 3em 1em;
+    padding: 2em 1em;
   }
 
   body {
