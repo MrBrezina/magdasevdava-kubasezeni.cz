@@ -29,9 +29,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: var(--background);
-  background-image: url(/assets/background.png);
-  background-position: left top;
+  background: url(/assets/background.png) left top,  url(/assets/background.png) left bottom, var(--background);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-attachment: fixed;
@@ -118,7 +116,7 @@ a.button, a.button:hover {
 }
 
 .hide {
-  display: none;
+  visibility: hidden;
 }
 
 /* Responsive */
@@ -131,17 +129,5 @@ a.button, a.button:hover {
 
   body {
     font-size: 14px;
-  }
-}
-
-@media (max-width: 800px) {
-  section {
-    width: auto;
-    padding: 3em 2em;
-  }
-
-  body {
-    font-size: 14px;
-    padding-bottom: 30vh;
   }
 }
