@@ -1,9 +1,10 @@
 :root {
   --text: #000;
-  --link-color: rgb(174, 38, 160);
+  --link-color: rgba(174, 38, 160, 1.0);
   --light-link-color: rgba(174, 38, 160, 0.065);
   --hover-link-color: rgba(174, 38, 160, 0.85);
   --background: #FFF;
+  --background2: rgba(193, 182, 170, 1.0);
 }
 
 /* General */
@@ -38,6 +39,10 @@ img#header {
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-attachment: fixed;
+}
+img#header, img#footer {
+  outline: 1px solid var(--background2);
+  outline-offset: 5px;
 }
 
 img#background {
