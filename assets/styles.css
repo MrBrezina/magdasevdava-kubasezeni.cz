@@ -24,10 +24,6 @@ body {
   font-style: normal;
   font-size: 30px;
   line-height: 165%;
-  background: url(/assets/background.png) left bottom, var(--background);
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-attachment: fixed;
 }
 
 img {
@@ -39,6 +35,18 @@ img {
 
 img#header {
   background: url(/assets/background.png) left top, var(--background);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+}
+
+img#background {
+  z-index: -1;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: url(/assets/background.png) left bottom;
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-attachment: fixed;
@@ -132,7 +140,7 @@ a.button:hover {
 @media (max-width: 1150px) {
   section {
     width: auto;
-    padding: 3em 2em;
+    padding: 3em 1em;
   }
 
   body {
