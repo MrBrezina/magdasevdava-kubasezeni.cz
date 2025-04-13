@@ -18,7 +18,7 @@ Vzhledem k tomu, že svatba bude probíhat venku na naší zahradě, obleky, kr
 
 **Do 16. května 2025 nám, prosím, dejte vědět, zda a v jakém počtu dorazíte. Kliknutím na tlačítko se dostanete na formulář. Vyplňte prosím vždy jeden za pár/rodinu.**
 
-[Potvrdit účast](https://forms.gle/qPibzoxNnq4Zj4Sd6)
+[Potvrdit účast](https://forms.gle/qPibzoxNnq4Zj4Sd6){: .button}
 
 ## Kde to bude a jak se tam dostanete
 
@@ -49,12 +49,6 @@ Svatební tradice jako rozbíjení talíře, únos nevěsty, proslovy
 
 Největší radost nám uděláte, když přijdete. Dary nechceme, ale pokud máte silnou potřebu nám i tak něco dát, oceníme peněžitý dar, který využijeme na klidnou rodinnou dovolenou.
 
-[QR kód]
-
 ## Dotazy a kontakt
 
-Chcete se na něco zeptat? Napište Magdě (776 784 728) nebo Kubovi (723 773 240), ale spíš Magdě. 
-
-—
-
-Moc se na vás těšíme!
+Chcete se na něco zeptat? Napište Magdě (776 784 728) nebo Kubovi (723 773 240), ale spíš Magdě.

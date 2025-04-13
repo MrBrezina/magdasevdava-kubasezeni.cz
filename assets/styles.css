@@ -1,20 +1,20 @@
-/* Adapter Mono PE from Rosetta */
+/* Adapter  PE from Rosetta */
 
 @supports (font-variation-settings: initial) {
   @font-face {
       font-display: block;
-      font-family: "AdapterMonoVF";
+      font-family: "AdapterVF";
       font-weight: 100 900;
       font-style: normal;
-      src: url("https://webfonts.rosettatype.com/misc/AdapterMonoPEVFWeb-All.woff2") format("woff2");
+      src: url("https://webfonts.rosettatype.com/misc/AdapterPEVFWeb-All.woff2") format("woff2");
   }
 }
 
 :root {
-  --text: #fff;
-  --link-color: rgb(54, 17, 127);
-  --light-link-color: rgba(120, 77, 206, 0.065);
-  --background: rgb(146, 121, 91);
+  --text: #000;
+  --link-color: rgb(83, 38, 174);
+  --light-link-color: rgba(83, 38, 174, 0.065);
+  --background: #FFF;
 }
 
 /* General */
@@ -22,53 +22,78 @@
 
 html {
   background: var(--background);
+  margin: 0;
+  padding: 0;
 }
 
-body, li, p, h1, h2, h3, h4, h5 {
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--background);
+  background-image: url(/assets/background.png);
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  font-family: "eskorte-latin", serif;
   color: var(--text);
-  font-family: AdapterMonoVF, serif;
   font-weight: 400;
+  font-style: normal;
   font-size: 24px;
-  line-height: 150%;
+  line-height: 165%;
+}
+
+img {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  display: block;
 }
 
 section {
-  padding: 3em 10% 5em 10%;
+  padding: 5em 8em 12em 8em;
+  margin: 0;
+  background: var(--background);
+}
+
+li, p, h1, h2, h3, h4, h5 {
+  font-weight: 400;
+  font-size: 100%;
+  max-width: 48em;
 }
 
 h1, h2, h3, h4 {
   font-size: 100%;
-  font-weight: 700;
+  font-weight: 600;
+  margin: 1.5em 0 0.5em;
 }
 
 h1 {
-  font-size: 2em;
-  margin: 1.2em 0 0.5em;
+  font-size: 250%;
 }
 
 h2 {
-  font-size: 1.2em;
-  margin: 1.5em 0 0.5em;
+  font-size: 125%;
+  margin-top: 3em;
 }
 
 p {
   margin: 1em 0;
-  max-width: 1000px;
+}
+
+li em, p em {
+  font-family: "eskorte-latin", serif;
+  font-weight: 400;
+  font-style: italic;
 }
 
 strong {
-  font-weight: 500;
-}
-
-em {
-  font-style: normal;
-  font-variation-settings: "ital" 1, "slnt" -13, "wght" 400;
-  font-feature-settings: "ss07" on;
+  font-weight: 600;
 }
 
 ul {
   padding-left: 0;
-  list-style-type: none;
+  list-style: circle;
 }
 
 a {
@@ -83,6 +108,15 @@ a:hover {
   text-decoration: underline;
 }
 
+a.button, a.button:hover {
+  text-decoration: none;
+  display: inline-block;
+  padding: 1em 2em;
+  color: var(--background);
+  background-color: var(--link-color);
+  text-decoration: none;
+}
+
 .hide {
   display: none;
 }
@@ -91,30 +125,23 @@ a:hover {
 
 @media (max-width: 1150px) {
   section {
-    width: 88%;
-    padding: 1em 7% 3em 5%;
+    width: auto;
+    padding: 3em 2em;
   }
 
-  body, li, h1, h2, h3, h4, h5 {
+  body {
     font-size: 14px;
-  }
-
-  p, p.intro {
-    font-size: 24px;
   }
 }
 
 @media (max-width: 800px) {
   section {
-    width: 90%;
-    padding: 1em 5% 3em 5%;
+    width: auto;
+    padding: 3em 2em;
   }
 
-  body, li, p, p.intro, h1, h2, h3, h4, h5 {
+  body {
     font-size: 14px;
-  }
-
-  p.intro {
-    font-variation-settings: "ital" 1, "slnt" -11, "wght" 700;
+    padding-bottom: 30vh;
   }
 }
