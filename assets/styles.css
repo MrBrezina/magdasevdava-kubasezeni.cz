@@ -1,19 +1,8 @@
-/* Adapter  PE from Rosetta */
-
-@supports (font-variation-settings: initial) {
-  @font-face {
-      font-display: block;
-      font-family: "AdapterVF";
-      font-weight: 100 900;
-      font-style: normal;
-      src: url("https://webfonts.rosettatype.com/misc/AdapterPEVFWeb-All.woff2") format("woff2");
-  }
-}
-
 :root {
   --text: #000;
-  --link-color: rgb(83, 38, 174);
-  --light-link-color: rgba(83, 38, 174, 0.065);
+  --link-color: rgb(174, 38, 160);
+  --light-link-color: rgba(174, 38, 160, 0.065);
+  --hover-link-color: rgba(174, 38, 160, 0.85);
   --background: #FFF;
 }
 
@@ -29,16 +18,16 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: url(/assets/background.png) left top,  url(/assets/background.png) left bottom, var(--background);
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  background-attachment: fixed;
   font-family: "eskorte-latin", serif;
   color: var(--text);
   font-weight: 400;
   font-style: normal;
-  font-size: 24px;
+  font-size: 30px;
   line-height: 165%;
+  background: url(/assets/background.png) left bottom, var(--background);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
 }
 
 img {
@@ -48,16 +37,27 @@ img {
   display: block;
 }
 
+img#header {
+  background: url(/assets/background.png) left top, var(--background);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+}
+
 section {
-  padding: 5em 8em 12em 8em;
+  padding: 5em 2em 12em 2em;
   margin: 0;
   background: var(--background);
+}
+
+section div {
+  max-width: 42em;
+  margin: 0 auto;
 }
 
 li, p, h1, h2, h3, h4, h5 {
   font-weight: 400;
   font-size: 100%;
-  max-width: 48em;
 }
 
 h1, h2, h3, h4 {
@@ -106,13 +106,21 @@ a:hover {
   text-decoration: underline;
 }
 
-a.button, a.button:hover {
+a.button {
   text-decoration: none;
   display: inline-block;
-  padding: 1em 2em;
+  padding: 0.5em 1.5em;
   color: var(--background);
   background-color: var(--link-color);
+  outline: 1px solid var(--link-color);
+  outline-offset: 3px;
+  margin: 1em 0;
+}
+
+a.button:hover {
   text-decoration: none;
+  background-color: var(--hover-link-color);
+  outline: 1px solid var(--hover-link-color);
 }
 
 .hide {
@@ -128,6 +136,6 @@ a.button, a.button:hover {
   }
 
   body {
-    font-size: 14px;
+    font-size: 20px;
   }
 }
